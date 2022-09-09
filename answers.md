@@ -1,10 +1,15 @@
+Answer 1:
 git version 2.34.1
+
+Answer 2:
 user.name=Joey_Hilliard
 user.email=jh670720@ohio.edu
 core.repositoryformatversion=0
 core.filemode=true
 core.bare=false
 core.logallrefupdates=true
+
+Answer 3:
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
@@ -50,6 +55,8 @@ collaborate (see also: git help workflows)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
+	
+Answer 4:
 On branch master
 
 No commits yet
@@ -61,6 +68,8 @@ Untracked files:
 	answers.md
 
 nothing added to commit but untracked files present (use "git add" to track)
+	
+Answer 5:
 On branch master
 
 No commits yet
@@ -74,3 +83,63 @@ Untracked files:
 	Answer_1
 	answers.md
 
+Answer 6:
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	new file:   README.md
+	new file:   answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Answer_1
+
+Answer 7:
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	Answer_1
+
+no changes added to commit (use "git add" and/or "git commit -a")
+	
+Answer 8:
+commit bb2fb830020a9703dae30e9602a817f7866d8df3
+Author: Joey_Hilliard <jh670720@ohio.edu>
+Date:   Thu Sep 8 19:46:25 2022 -0400
+
+    Initial commit
+	
+Answer 9:
+/*While doing the lab, this answer did not save so I had to go back and do it. I do not believe this updated status is accurate.*/
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        2400/
+        Answer_1
+	
+Answer 10:
+No.
+	
+Answer 11:
+The changes are still not reflected.
+	
+Answer 12:
+The changes are now reflected.
+	
+Answer 13:
+answers.md  .git  .gitignore  README.md
